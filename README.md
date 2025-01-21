@@ -4,6 +4,12 @@
 
 This project demonstrates my expertise in data visualization and dashboard creation using Tableau. The dashboard analyzes data from British Airways Reviews, offering insights into customer experiences and performance metrics.
 
+### Screenshot
+
+Below is a preview of the dashboard created for this project:
+
+![British Airways Reviews](https://github.com/user-attachments/assets/896a3e2d-8de3-4d98-ae8c-f844d3cf8130)
+
 ### Project Overview
 
 The goal of this project was to design an interactive Tableau dashboard to visualize key performance metrics for British Airways. The dashboard enables stakeholders to explore and analyze data across various dimensions, such as customer demographics, regions, and aircraft types, to identify trends and areas for improvement.
@@ -33,12 +39,6 @@ Dimensions:
 3. Building & Formatting the Dashboard
 - Integration of visualizations into a cohesive dashboard.
 - Formatting and finalizing the dashboard to ensure it is visually appealing and user-friendly.
-
-### Screenshot
-
-Below is a preview of the dashboard created for this project:
-
-![British Airways Reviews](https://github.com/user-attachments/assets/896a3e2d-8de3-4d98-ae8c-f844d3cf8130)
 
 ### Dashboard Features
 
